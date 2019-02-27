@@ -14,8 +14,8 @@
 
 ## 3
 1. Anup Khanal
-2. Kidus
-3. Aydin
+2. Kidus Desalegn   
+3. Aydin Maldan
 
 ## 4
 1. Ramesh Krishnan Gurusamy
